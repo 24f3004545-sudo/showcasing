@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GitHub Pages Showcase</title>
+</head>
+<body>
+    <h1>My Lossless Compression Showcase</h1>
+    <p>This page features a required contact email address.</p>
+
+    to ensure it is visible in the HTML source code 
+        despite GitHub Pages' Cloudflare service ignoring the tags alone.
+    -->
+    <p>
+        Contact Email: 
+        24f3004545&#64;ds&#46;study&#46;iitm&#46;ac&#46;in
+        </p>
+
+    <p>This page is published via GitHub Pages.</p>
+</body>
+</html>
