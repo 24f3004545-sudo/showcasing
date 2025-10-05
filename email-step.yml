@@ -1,0 +1,15 @@
+name: Email Step Action
+
+on: [push]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository code
+        uses: actions/checkout@v4
+
+      - name: 24f3004545@ds.study.iitm.ac.in
+        run: |
+          echo "This step name contains the required email."
+          echo "The action is running successfully."
